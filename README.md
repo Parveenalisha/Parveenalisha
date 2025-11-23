@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parveenalisha&label=Profile%20views&color=0e75b6&style=flat" alt="parveenalisha" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack and JAVA**
+- 🌱 I’m currently working on **full-stack Django web apps**
 
-- 👯 I’m looking to collaborate on **Open Source and Mern stack Projects**
+- 🧩 I’m looking to collaborate on **Django, React and Full-Stack Web Projects**
 
-- 💬 Ask me about **React.Js , Next.Js and Open Source**
+- 💬 💬 Ask me about **APIs, auth bugs, and why debug mode gaslights us**
 
 - 📫 How to reach me **https://www.linkedin.com/in/alisha-parveen-41505b264/**
 
